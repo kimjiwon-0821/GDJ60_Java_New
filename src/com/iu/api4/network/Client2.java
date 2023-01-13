@@ -28,7 +28,7 @@ public class Client2 {
 		boolean check = true;
 		
 		try {
-			sc = new Socket("localhost",8282);
+			sc = new Socket("localhost",8282); // 
 			System.out.println("server 접속 성공");
 			while(check) {
 				System.out.println("1.점심, 2. 저녁, 3.종료");
