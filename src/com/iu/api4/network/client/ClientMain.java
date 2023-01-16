@@ -1,4 +1,4 @@
-package com.iu.api4.network.client.second;
+package com.iu.api4.network.client;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
